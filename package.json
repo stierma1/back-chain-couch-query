@@ -1,0 +1,24 @@
+{
+  "name": "back-chain-couch-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/back-chain-couch-query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/back-chain-couch-query/issues"
+  },
+  "homepage": "https://github.com/stierma1/back-chain-couch-query#readme",
+  "dependencies": {
+    "backwords-chainer": "^1.0.8",
+    "jsonpath-plus": "^0.16.0",
+    "request": "^2.88.0"
+  }
+}
