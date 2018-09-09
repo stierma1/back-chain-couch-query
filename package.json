@@ -1,6 +1,6 @@
 {
   "name": "back-chain-couch-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/stierma1/back-chain-couch-query#readme",
   "dependencies": {
-    "backwords-chainer": "^1.0.8",
+    "backwords-chainer": "^1.0.9",
     "jsonpath-plus": "^0.16.0",
     "request": "^2.88.0"
   }
